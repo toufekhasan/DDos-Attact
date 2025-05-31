@@ -22,4 +22,9 @@ This is a simple UDP-based DDoS attack script written in Python 3. It sends pack
   - `colorama`
   - `pyfiglet`
  
-Install 
+## install and usage guide:
+git clone https://github.com/toufekhasan/DDos-Attact.git
+cd DDos-Attact
+chmod +x ddos.py
+python ddos.py
+
