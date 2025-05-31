@@ -1,6 +1,7 @@
 # DDoS Attack Script (Educational Use Only)
 
 ./ddos.jpeg
+
 ## 🚨 Disclaimer
 This script is for **educational and testing** purposes **only**. Do **not** use this tool on networks or systems without **explicit permission**. Unauthorized use of this script is **illegal** and against GitHub's [Terms of Service](https://docs.github.com/en/site-policy).
 
